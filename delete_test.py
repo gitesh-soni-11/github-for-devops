@@ -1,0 +1,1 @@
+print("Delete the content.")
