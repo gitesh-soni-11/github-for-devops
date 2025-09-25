@@ -1,6 +1,3 @@
 git init
 git status 
 git clone link
-git branch
-git checkout 
-git commit -m "message"
