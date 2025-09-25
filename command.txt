@@ -3,3 +3,4 @@ git status
 git clone link
 git commit -m "message"
 git branch
+git checkout 
