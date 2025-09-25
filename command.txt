@@ -4,3 +4,4 @@ git clone link
 git commit -m "message"
 git branch
 git log
+git checkout 
